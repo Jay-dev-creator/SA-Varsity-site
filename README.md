@@ -1,0 +1,2 @@
+# SA-Varsity-site
+Gets the user's current location, the calculates the distance between the user and 13 South African universities, then displays information about the universities together with the distance in kilometers. This web application was built to help students who want to enroll at University in South African to find the university that is closest to their current location. It was built using ReactJS (JavaScript) and the styling was done using CSS 
